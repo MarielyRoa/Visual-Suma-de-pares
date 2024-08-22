@@ -1,0 +1,17 @@
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma_de_numeros_pares.Form1.resources
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.vbproj.GenerateResource.cache
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.AssemblyInfo.vb
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.vbproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma_de_numeros_pares.Form2.resources
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\bin\Debug\net7.0-windows\Suma de numeros pares.exe
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\bin\Debug\net7.0-windows\Suma de numeros pares.deps.json
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\bin\Debug\net7.0-windows\Suma de numeros pares.runtimeconfig.json
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\bin\Debug\net7.0-windows\Suma de numeros pares.dll
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\bin\Debug\net7.0-windows\Suma de numeros pares.pdb
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.dll
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\refint\Suma de numeros pares.dll
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.pdb
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\Suma de numeros pares.genruntimeconfig.cache
+C:\Users\marie\source\repos\Suma de numeros pares\Suma de numeros pares\obj\Debug\net7.0-windows\ref\Suma de numeros pares.dll
